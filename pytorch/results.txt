@@ -24,7 +24,7 @@ train 249 - acc. 0.99186
 test 249 - acc. 0.911669
 
 Adam
-train .998880
-test 0.912480
+train 249 - acc 0.998880
+test 249 - acc 0.912480
 
 
